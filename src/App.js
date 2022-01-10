@@ -11,6 +11,7 @@ function App() {
       <Header />
       <div className='app__body'>
         <Sidebar />
+        <Feed />
       </div>
     </div>
   );
